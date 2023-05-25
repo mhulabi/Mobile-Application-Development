@@ -1,0 +1,59 @@
+
+<resources>
+    <string name="app_name">Video Player</string>
+    <string-array name="genres">
+        <item>Adventure</item>
+        <item>Drama</item>
+        <item>Comedy</item>
+        <item>SCI-FI</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Big Buck Bunny</item>
+        <item>Elephant Dream</item>
+        <item>Sintel</item>
+        <item>For Bigger Joyrides</item>
+        <item>Volkswagen GTI Review</item>
+        <item>Tears of Steel</item>
+        <item>Subaru Outback On Street And Dirt</item>
+        <item>What care can you get for a grand?</item>
+        <item>We Are Going On Bullrun</item>
+        <item>For Bigger Meltdowns</item>
+        <item>For Bigger Fun</item>
+        <item>For Bigger Escape</item>
+        <item>For Bigger Blazes</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4</item>
+        <item>https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>1:00</item>
+        <item>25:00</item>
+        <item>3:00</item>
+        <item>67:00</item>
+        <item>1:52:00</item>
+        <item>6:00</item>
+        <item>7:00</item>
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>2:09:00</item>
+        <item>11:00</item>
+        <item>1:20:00</item>
+        <item>13:00</item>
+    </string-array>
+
+</resources>
